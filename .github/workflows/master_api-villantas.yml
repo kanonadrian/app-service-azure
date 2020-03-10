@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'api-villantas'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f201da6fcf7142fbb00638eb972b6453 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a8d8c446bd584d12bcdd1ed17a8f1cbf }}
         package: .
