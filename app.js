@@ -1,5 +1,5 @@
 const express = require('express');
-const sql = require('mssql');
+// const sql = require('mssql');
 const app = express();
 // const routes = require('./routes'); 
 const port = process.env.PORT || 3000;
